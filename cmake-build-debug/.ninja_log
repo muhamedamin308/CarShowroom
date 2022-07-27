@@ -1,0 +1,20 @@
+# ninja log v5
+4	2656	1653509803813171960	CMakeFiles/final_showroom_project.dir/final_showroom_project/buy_rent.cpp.o	95ec5f5fc093b80f
+2658	2711	1653509803871120790	CMakeFiles/final_showroom_project.dir/final_showroom_project/cars.cpp.o	3e5c37560f5c1269
+6	2780	1653509803937988264	CMakeFiles/final_showroom_project.dir/final_showroom_project/car.cpp.o	d0dbafc7236d01c6
+2780	4409	1653509805565519695	CMakeFiles/final_showroom_project.dir/final_showroom_project/garage.cpp.o	c0495d6a8afda420
+0	4693	1653509805847843033	CMakeFiles/final_showroom_project.dir/final_showroom_project/admin.cpp.o	9d907fa064385a2d
+4409	5732	1653509806891349471	CMakeFiles/final_showroom_project.dir/final_showroom_project/Register.cpp.o	8538da3811006168
+5	2257	1653509894846854097	CMakeFiles/final_showroom_project.dir/final_showroom_project/service.cpp.o	ff085cd64497ce6
+3	2771	1653509895360431752	CMakeFiles/final_showroom_project.dir/final_showroom_project/admin.cpp.o	9d907fa064385a2d
+5	1276	1653509928595138341	CMakeFiles/final_showroom_project.dir/final_showroom_project/service_process.cpp.o	66c568109238fbd1
+5	2525	1653509929845367204	CMakeFiles/final_showroom_project.dir/final_showroom_project/final_showroom_project.cpp.o	573a1542ef518543
+7	2597	1653509929918668118	CMakeFiles/final_showroom_project.dir/final_showroom_project/showrooms.cpp.o	d4241e750e10f19e
+1280	3440	1653509930766175725	CMakeFiles/final_showroom_project.dir/final_showroom_project/user.cpp.o	1479a2d89c31c866
+3440	3531	1653509930856888197	final_showroom_project	18228801dfe1fe75
+4	4549	1653653300292173861	CMakeFiles/final_showroom_project.dir/final_showroom_project/final_showroom_project.cpp.o	573a1542ef518543
+6	4628	1653653300371779427	CMakeFiles/final_showroom_project.dir/final_showroom_project/showrooms.cpp.o	d4241e750e10f19e
+5	5087	1653653300826477270	CMakeFiles/final_showroom_project.dir/final_showroom_project/Register.cpp.o	8538da3811006168
+4549	8034	1653653303772928740	CMakeFiles/final_showroom_project.dir/final_showroom_project/user.cpp.o	1479a2d89c31c866
+4628	8478	1653653304220938334	CMakeFiles/final_showroom_project.dir/final_showroom_project/admin.cpp.o	9d907fa064385a2d
+8623	8877	1653653304621992552	final_showroom_project	18228801dfe1fe75
